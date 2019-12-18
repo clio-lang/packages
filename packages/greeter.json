@@ -1,0 +1,8 @@
+  
+{
+  "name": "greeter",
+  "git": "https://github.com/garritfra/clio-greeter",
+  "description": "Simple clio module that greets the user!",
+  "license": "Apache-2.0",
+  "author": "Garrit Franke"
+}
