@@ -1,0 +1,7 @@
+{
+  "name": "add",
+  "git": "https://github.com/garritfra/clio-add",
+  "description": "Add numbers",
+  "license": "Apache-2.0",
+  "author": "Garrit Franke"
+}
