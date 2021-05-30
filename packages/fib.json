@@ -1,0 +1,7 @@
+{
+  "name": "add",
+  "git": "https://github.com/clio-lang",
+  "description": "Calculate fibs",
+  "license": "Apache-2.0",
+  "author": "Pouya Eghbali"
+}
