@@ -1,5 +1,5 @@
 {
-  "name": "add",
+  "name": "fib",
   "git": "https://github.com/clio-lang/fib",
   "description": "Calculate fibs",
   "license": "Apache-2.0",
